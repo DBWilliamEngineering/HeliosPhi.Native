@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HeliosPhi.Native/HeliosPhi.Native.vcxproj" Id="e2a1eea6-2b58-45fc-9339-a24983437b1f" />
+</Solution>
